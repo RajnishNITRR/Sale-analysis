@@ -8,4 +8,4 @@
 <h2> Tools use</h2>
 <li>Tableau</li>
 
-![Dashboard](./Dashboard.png)
+![Dashboard](./sale_dashboard.png)
